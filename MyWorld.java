@@ -7,6 +7,7 @@ import java.lang.*;
  * 
  * @author jonathan
  * @version final?
+ * this is a test to look if its working
  */
 public class MyWorld extends World
 {
